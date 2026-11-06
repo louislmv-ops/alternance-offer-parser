@@ -1,0 +1,12 @@
+{
+  "name": "alternance-offer-parser",
+  "version": "0.1.0",
+  "description": "Extrait salaire, rythme, duree, niveau et date de debut d'une offre d'alternance en francais.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "scripts": { "test": "node --test" },
+  "keywords": ["alternance", "apprentissage", "parser", "offres", "emploi", "france"],
+  "license": "MIT",
+  "engines": { "node": ">=18" }
+}
